@@ -1,3 +1,3 @@
 # Sprites
-This is where I put sprites so I don't lose them.
+A repo for sprites I've drawn.
 
